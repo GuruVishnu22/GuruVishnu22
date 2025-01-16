@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧾 I'm Currently working on Boracle project<br>👨‍💻 I'm a  enthusiastic Data Engineer<br>📳 I keenly learn new things on Mobile App Development<br>
+🧾 I'm Currently working on Boracle project<br>👨‍💻 📳 I keenly learn new things on Mobile App Development<br>
 
 
 ## 🌐 Socials:
